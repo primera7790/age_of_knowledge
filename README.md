@@ -9,7 +9,7 @@
 ## > сверхполезная практика
 - [**Neural_network_on_python.**](https://github.com/primera7790/Neural_network_on_python) &nbsp; &nbsp; _Какой pytorch? слишком просто.. я жаждал хардкора!_
 - [**ML_training_Yandex.**](https://github.com/primera7790/ML_training_Yandex) &nbsp; &nbsp; _Очень быстро ребята убедили меня идти подтягивать линал с матанализом..
-само собой, оно <br> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; того стоило._
+само собой, оно того стоило._
 - [**Algo-3.0-Yandex.**](https://github.com/primera7790/Algo-3.0-Yandex) &nbsp; &nbsp; _Хорошая была встряска.. решение задачек до гула в голове.. это нам надо.._
   
 ## > прочие полезности на закрепление знаний
@@ -23,4 +23,4 @@
 
 ## > дополнительная мелочь
 - [**Education_path.**](https://github.com/primera7790/Education_path) &nbsp; &nbsp; _Некий элемент самодисциплины и ощущения прогресса. Скорее заметки для себя, но тоже часть
-<br> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; пути._
+пути._
