@@ -3,7 +3,7 @@
 <br>
 
 ## > pet проекты 
-- [**ZAVOD_project.**](https://github.com/primera7790/ZAVOD_project) &nbsp; &nbsp; _Попали на руки уникальные данные, само собой абсолютно сырые, ну и ушел в них с головой.._
+- [**ZAVOD_project.**](https://github.com/primera7790/ZAVOD_project) &nbsp; &nbsp; _Попали на руки уникальные данные, само собой сырые, множество табличкек в word-формате, ммм, что ж, сделаем крсиво._
 - [**Trading_assistant.**](https://github.com/primera7790/Trading_assistant) &nbsp; &nbsp; _Всё, что узнавал на первых парах, старался прикрутить к проекту._
 
 ## > сверхполезная практика
