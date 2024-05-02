@@ -2,17 +2,17 @@
 ### _Незаменимая практика_
 <br>
 
-## > pet-проекты 
+## > Pet-проекты 
 - [**ZAVOD_project.**](https://github.com/primera7790/ZAVOD_project) &nbsp; &nbsp; _Попали на руки уникальные данные, само собой сырые, множество табличек в word-формате, ммм, что ж, сделаем красиво._
 - [**Trading_assistant.**](https://github.com/primera7790/Trading_assistant) &nbsp; &nbsp; _Всё, что узнавал на первых парах, старался прикрутить к проекту._
 
-## > сверхполезная практика
+## > Сверхполезная практика
 - [**Neural_network_on_python.**](https://github.com/primera7790/Neural_network_on_python) &nbsp; &nbsp; _Какой pytorch? слишком просто.. я жаждал хардкора!_
 - [**ML_training_Yandex.**](https://github.com/primera7790/ML_training_Yandex) &nbsp; &nbsp; _Очень быстро ребята убедили меня идти подтягивать линал с матаном..
 само собой, оно того стоило._
 - [**Algo-3.0-Yandex.**](https://github.com/primera7790/Algo-3.0-Yandex) &nbsp; &nbsp; _Хорошая была встряска.. решение задачек до гула в голове.. это нам надо.._
   
-## > прочие полезности на закрепление знаний
+## > Прочие полезности на закрепление знаний
 - [**Django_store_edu.**](https://github.com/primera7790/Django_store_edu) &nbsp; &nbsp; _Ну а у кого нет онлайн магазина? Постигал django, было интересно._
 - [**html_css_project.**](https://github.com/primera7790/html_css_project) &nbsp; &nbsp; _База есть база. Период подколов друзей, переписывая страницы их браузеров._
 - [**health_diet_parser.**](https://github.com/primera7790/health_diet_parser) &nbsp; &nbsp; _Открыл для себя мир парсинга, восторгу-то было.._
@@ -21,6 +21,6 @@
 - [**Owl_Telegram_bot.**](https://github.com/primera7790/Owl_Telegram_bot) &nbsp; &nbsp; _Забавный легкий бот, на удачу. Где-то подсмотрел идею_
 - [**Sticker_Telegram_bot.**](https://github.com/primera7790/Sticker_Telegram_bot) &nbsp; &nbsp; _С чего-то же нужно было начинать)_
 
-## > дополнительная мелочь
+## > Дополнительная мелочь
 - [**Education_path.**](https://github.com/primera7790/Education_path) &nbsp; &nbsp; _Некий элемент самодисциплины и ощущения прогресса. Скорее заметки для себя, но тоже часть
 пути._
