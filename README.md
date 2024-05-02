@@ -2,8 +2,8 @@
 ### _Незаменимая практика_
 <br>
 
-## > pet проекты 
-- [**ZAVOD_project.**](https://github.com/primera7790/ZAVOD_project) &nbsp; &nbsp; _Попали на руки уникальные данные, само собой сырые, множество табличек в word-формате, ммм, что ж, сделаем крсиво._
+## > pet-проекты 
+- [**ZAVOD_project.**](https://github.com/primera7790/ZAVOD_project) &nbsp; &nbsp; _Попали на руки уникальные данные, само собой сырые, множество табличек в word-формате, ммм, что ж, сделаем красиво._
 - [**Trading_assistant.**](https://github.com/primera7790/Trading_assistant) &nbsp; &nbsp; _Всё, что узнавал на первых парах, старался прикрутить к проекту._
 
 ## > сверхполезная практика
